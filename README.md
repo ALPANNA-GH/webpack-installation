@@ -120,7 +120,7 @@ temp project with installed & configured webpack
 
 > Next line the link to the live the Webpack temp Project.
 
-- [ Click Here for 'Awesome Books' Live Demo ](https://alpanna-gh.github.io/webpack-installation)
+- [ Click Here for 'Webpack temp Project' Live Demo ](https://alpanna-gh.github.io/webpack-installation)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +137,7 @@ NO Prerequisites needed for this project
 
 Clone this repository open it with GH desktop, or download it
 `Code -> HTTPS -> copy link | download zip | open on GH disktop app`
-['Awesome Books' files URL link](https://github.com/ALPANNA-GH/webpack-installation.git)
+['Weppack Temp Project' files URL link](https://github.com/ALPANNA-GH/webpack-installation.git)
 
 ### Install
 
