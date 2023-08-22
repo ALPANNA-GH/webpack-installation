@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="./assets/images/alpanna_logo.png" alt="logo"  height="300px" />
+  <img src="./src/assets/images/alpanna_logo.png" alt="logo"  height="300px" />
   <br/>
     <h1 style="font-size: 72px; font-weight: 900;"><b> WebPack Project Setup Template </b></h1>
 </div>
